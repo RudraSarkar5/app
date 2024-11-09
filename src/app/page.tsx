@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 
-export const metedata:Metadata = {
+export  const metadata:Metadata = {
    title : "Home"
 }
 export default function Home() {
